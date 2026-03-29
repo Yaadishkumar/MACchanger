@@ -23,4 +23,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Yaadishkumar/MACchanger.git
-cd mac-changer
+cd MACchanger
