@@ -24,3 +24,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Yaadishkumar/MACchanger.git
 cd MACchanger
+
+## Run Script
+```bash
+sudo python3 mac_changer.py -i <interface> -m <new_mac>
